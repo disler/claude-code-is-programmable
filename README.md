@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/disler-claude-code-is-programmable-badge.png)](https://mseep.ai/app/disler-claude-code-is-programmable)
+
 # Claude Code is Programmable
 
 This repository demonstrates how to use Claude Code programmatically, showcasing examples in different programming languages. Watch [this video](https://youtu.be/2TIXl2rlA6Q) to understand why this is so important for next generation engineering. Check out the [voice to Claude Code](https://youtu.be/LvkZuY7rJOM) video to see how to use the `voice_to_claude_code.py` script.
